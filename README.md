@@ -1,5 +1,7 @@
 # AIRFLOW-PROJECT-MLOPS
 
+This project demonstrates the development and implementation of a robust and scalable ETL (Extract, Transform, Load) pipeline using Apache Airflow. The pipeline automates the process of extracting data from a RESTful API, transforming it into a usable format, and loading it into a PostgreSQL database for analysis and reporting.
+
 Overview
 ========
 
